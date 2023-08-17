@@ -28,7 +28,7 @@
 
 ### Links
 
-- Site URL: https://nandosti.github.io/advice-generator-app/
+- Site URL: https://nandosti.github.io/base-apparel-coming-soon-page/
 
 ### Construído com
 
